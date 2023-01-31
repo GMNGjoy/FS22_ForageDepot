@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="67">
+    <author>GMNGjoy</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Forage Depot</en>
+        <fr>Dépôt D'Ensilage</fr>
+        <de>Silagedepot</de>
+    </title>
+    <description>
+        <en><![CDATA[Handle, Store & Process all of your forage goods.
+
+RECIPES:
+- Grass Silage: 500L GRASS -> 500L SILAGE, 50L DIGESTATE
+- Hay Silage: 500L HAY -> 500L SILAGE, 50L DIGESTATE
+- Chaff Silage: 500L CHAFF -> 500L SILAGE, 50L DIGESTATE
+- Hay Drying: 500L GRASS -> 500L HAY
+- Base TMR Mix: 400L Hay + 400L SILAGE + 200L STRAW -> 1000L FORAGE
+- Mineral TMR Mix: 390L Hay + 390L SILAGE + 190L STRAW + 30L MINERAL_FEED -> 1000L FORAGE
+
+COST:
+180,000
+
+INPUTS:
+- 1,000,000L GRASS
+- 1,000,000L HAY
+- 1,000,000L CHAFF
+- 1,000,000L STRAW
+- 10,000L MINERAL_FEED
+
+OUTPUTS:
+- 2,000,000L SILAGE
+- 2,000,000L FORAGE (Total Mixed Ration)
+- 150,000L DIGESTATE
+]]></en>
+        <fr><![CDATA[Manipulez, stockez et traitez tous vos produits fourragers.
+
+RECETTES:
+- Ensilage d'herbe: 500L GRASS -> 500L SILAGE, 50L DIGESTATE
+- Ensilage de foin: 500L HAY -> 500L SILAGE, 50L DIGESTATE
+- Ensilage de paille: 500L CHAFF -> 500L SILAGE, 50L DIGESTATE
+- Séchage du foin: 500L GRASS -> 500L HAY
+- Mélange RTM de base: 400L Hay + 400L SILAGE + 200L STRAW -> 1000L FORAGE
+- Mélange minéral RTM: 390L Hay + 390L SILAGE + 190L STRAW + 30L MINERAL_FEED -> 1000L FORAGE
+
+COÛT:
+180,000
+
+CONTRIBUTIONS:
+- 1,000,000L GRASS
+- 1,000,000L HAY
+- 1,000,000L CHAFF
+- 1,000,000L STRAW
+- 10,000L MINERAL_FEED
+
+LES SORTIES:
+- 2,000,000L SILAGE
+- 2,000,000L FORAGE (Ration Mixte Totale)
+- 150,000L DIGESTATE
+]]></fr>
+    <de><![CDATA[Handhaben, lagern und verarbeiten Sie alle Ihre Futterwaren.
+
+REZEPTUREN:
+- Grassilage: 500L GRASS -> 500L SILAGE, 50L DIGESTATE
+- Heu-Silage: 500L HAY -> 500L SILAGE, 50L DIGESTATE
+- Spreu-Silage: 500L CHAFF -> 500L SILAGE, 50L DIGESTATE
+- Heutrocknung: 500L GRASS -> 500L HAY
+- Basis-TMR-Mischung: 400L Hay + 400L SILAGE + 200L STRAW -> 1000L FORAGE
+- Mineralische TMR-Mischung: 390L Hay + 390L SILAGE + 190L STRAW + 30L MINERAL_FEED -> 1000L FORAGE
+
+KOSTEN:
+180,000
+
+EINGÄNGE:
+- 1,000,000L GRASS
+- 1,000,000L HAY
+- 1,000,000L CHAFF
+- 1,000,000L STRAW
+- 10,000L MINERAL_FEED
+
+AUSGÄNGE:
+- 2,000,000L SILAGE
+- 2,000,000L FORAGE (Total gemischte Ration)
+- 150,000L DIGESTATE
+]]></de>
+    </description>
+
+    <iconFilename>icon_forageDepot.dds</iconFilename>
+
+    <multiplayer supported="true" />
+
+    <storeItems>
+        <storeItem xmlFilename="farma800Forage/farma800Forage.xml" />
+    </storeItems>
+
+    <l10n>
+        <text name="shopItem_forageDepot">
+            <en>Forage Depot</en>
+            <fr>Dépôt de fourrage</fr>
+            <de>Futterdepot</de>
+        </text>
+        <text name="function_forageDepot">
+            <en>Handle, Store &amp; Process all of your forage goods.</en>
+            <fr>Manipulez, stockez et traitez tous vos produits fourragers</fr>
+            <de>Handhaben, lagern und verarbeiten Sie alle Ihre Futtergüter</de>
+        </text>
+        <text name="recipe_silageGrass">
+            <en>Grass Silage</en>
+            <fr>Ensilage d'herbe</fr>
+            <de>Grassilage</de>
+        </text>
+        <text name="recipe_silageHay">
+            <en>Hay Silage</en>
+            <fr>Ensilage de foin</fr>
+            <de>Heu-Silage</de>
+        </text>
+        <text name="recipe_silageChaff">
+            <en>Chaff Silage</en>
+            <fr>Ensilage de paille</fr>
+            <de>Spreu-Silage</de>
+        </text>
+        <text name="recipe_hayDrying">
+            <en>Hay Drying</en>
+            <fr>Séchage du foin</fr>
+            <de>Heutrocknung</de>
+        </text>
+        <text name="recipe_baseTMR">
+            <en>Base TMR Mix</en>
+            <fr>Mélange RTM de base</fr>
+            <de>Basis-TMR-Mischung</de>
+        </text>
+        <text name="recipe_mineralTMR">
+            <en>Mineral TMR Mix</en>
+            <fr>Mélange minéral RTM</fr>
+            <de>Mineralische TMR-Mischung</de>
+        </text>
+    </l10n>
+
+</modDesc>

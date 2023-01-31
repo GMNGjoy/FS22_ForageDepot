@@ -1,0 +1,28 @@
+Handle, Store & Process all of your forage goods.
+
+RECIPES:
+- Grass Silage: 500L GRASS -> 500L SILAGE, 50L DIGESTATE
+- Hay Silage: 500L HAY -> 500L SILAGE, 50L DIGESTATE
+- Chaff Silage: 500L CHAFF -> 500L SILAGE, 50L DIGESTATE
+- Hay Drying: 500L GRASS -> 500L HAY
+- Base TMR Mix: 400L Hay + 400L SILAGE + 200L STRAW -> 1000L FORAGE
+- Mineral TMR Mix: 390L Hay + 390L SILAGE + 190L STRAW + 30L MINERAL_FEED -> 1000L FORAGE
+
+INPUTS:
+- 1,000,000L GRASS
+- 1,000,000L HAY
+- 1,000,000L CHAFF
+- 1,000,000L STRAW
+- 10,000L MINERAL_FEED
+
+OUTPUTS:
+- 2,000,000L SILAGE
+- 2,000,000L FORAGE (Total Mixed Ration)
+- 150,000L DIGESTATE
+
+COST: 180,000
+BRAND: Unia
+LOCATION: Placeable > Production > Factories
+
+
+Mod Support provided through GMNGjoy discord: http://gmngjoy.com/discord #forage-depot
