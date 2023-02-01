@@ -1,4 +1,4 @@
-# Silage Depot
+# Forage Depot
 This was my second ever mod created from scratch for Farming Simulator 22, and was submitted to GIANTS Software for inclusion to the ModHub, but was denied because it re-uses basegame assets (and someone else already released a similar building using the same asset), even though those basegame assets were re-textured.
 
 The Forage Depot is designed to process everything you need to make Total Mixed Rations - just provide it with Grass & Straw, the production facility can do the rest!
@@ -7,7 +7,7 @@ The Forage Depot is designed to process everything you need to make Total Mixed 
 - It will dry Grass into Hay
 - It has two recipes for TMR (with and without Mineral Feed)
 
-## Description from the ModDesc:
+## Description from the ModDesc
 > Handle, Store & Process all of your forage goods.
 > 
 > RECIPES:
